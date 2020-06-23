@@ -1,4 +1,3 @@
-// import { changeState, stateChanger, storeState } from './plant.js';
 import { changeState, stateChanger } from './plant.js';
 
 const feed = changeState("soil");
