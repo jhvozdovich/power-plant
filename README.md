@@ -5,7 +5,7 @@
 
 ### Description
 
-_This application serves as an introduction to functional programming with pure functions, closures, curried functions, and recursive functions. The coin counter takes a user input of an amount of money and calculates the exact change needed to equal that sum in quarters, nickels, dimes, and pennies. Jest testing is also employed._
+_This application serves as an introduction to functional programming with pure functions, closures, curried functions, and recursive functions. This plant care app accepts user input of button presses to prevent plant stats of light, soil, and water from becoming too low. Bulbasaur images are used to display plant status._
 
 ### Instructions for use:
 
